@@ -1,6 +1,6 @@
 ## SoftMax-Sigmoid
 
-**<<Multi-label vs. Multi-class Classification: Sigmoid vs. Softmax>>**
+**Multi-label vs. Multi-class Classification: Sigmoid vs. Softmax**
 
 https://glassboxmedicine.com/2019/05/26/classification-sigmoid-vs-softmax/
 
